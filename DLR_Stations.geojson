@@ -1,0 +1,867 @@
+{
+  "type": "FeatureCollection",
+  "name": "DLR_Stations",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 340,
+        "NAME": "West India Quay - DLR",
+        "ACCESSIBILITY": "Fully Accessible",
+        "NETWORK": "DLR",
+        "DATASET_LAST_UPDATED": "2021-09-23T10:00:20Z",
+        "FULL_NAME": "West India Quay - DLR Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.020177736285385,
+          51.5074850174432,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 341,
+        "NAME": "Westferry - DLR",
+        "ACCESSIBILITY": "Fully Accessible",
+        "NETWORK": "DLR",
+        "DATASET_LAST_UPDATED": "2021-09-23T10:00:20Z",
+        "FULL_NAME": "Westferry - DLR Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.026892513658037,
+          51.5095047501497,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 342,
+        "NAME": "Bank - DLR",
+        "ACCESSIBILITY": "Fully Accessible",
+        "NETWORK": "DLR",
+        "DATASET_LAST_UPDATED": "2021-09-23T10:00:20Z",
+        "FULL_NAME": "Bank - DLR Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.088901683054327,
+          51.5133739919329,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 343,
+        "NAME": "Stratford - DLR",
+        "ACCESSIBILITY": "Fully Accessible",
+        "NETWORK": "DLR",
+        "DATASET_LAST_UPDATED": "2021-09-23T10:00:20Z",
+        "FULL_NAME": "Stratford - DLR Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.003188497125808,
+          51.5413794566914,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 344,
+        "NAME": "Star Lane - DLR",
+        "ACCESSIBILITY": "Fully Accessible",
+        "NETWORK": "DLR",
+        "DATASET_LAST_UPDATED": "2021-09-23T10:00:20Z",
+        "FULL_NAME": "Star Lane - DLR Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.004186186863188,
+          51.5208212916115,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 345,
+        "NAME": "Abbey Road - DLR",
+        "ACCESSIBILITY": "Fully Accessible",
+        "NETWORK": "DLR",
+        "DATASET_LAST_UPDATED": "2021-09-23T10:00:20Z",
+        "FULL_NAME": "Abbey Road - DLR Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.003713398350188,
+          51.5323765712922,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 346,
+        "NAME": "Stratford International - DLR",
+        "ACCESSIBILITY": "Fully Accessible",
+        "NETWORK": "DLR",
+        "DATASET_LAST_UPDATED": "2021-09-23T10:00:20Z",
+        "FULL_NAME": "Stratford International - DLR Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.009426016003569,
+          51.5448488041452,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 357,
+        "NAME": "Royal Albert - DLR",
+        "ACCESSIBILITY": "Fully Accessible",
+        "NETWORK": "DLR",
+        "DATASET_LAST_UPDATED": "2021-09-23T10:00:20Z",
+        "FULL_NAME": "Royal Albert - DLR Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.045890833166886,
+          51.5084110931135,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 358,
+        "NAME": "Royal Victoria - DLR",
+        "ACCESSIBILITY": "Fully Accessible",
+        "NETWORK": "DLR",
+        "DATASET_LAST_UPDATED": "2021-09-23T10:00:20Z",
+        "FULL_NAME": "Royal Victoria - DLR Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.01775377595821,
+          51.5092316739956,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 359,
+        "NAME": "West Silvertown - DLR",
+        "ACCESSIBILITY": "Fully Accessible",
+        "NETWORK": "DLR",
+        "DATASET_LAST_UPDATED": "2021-09-23T10:00:20Z",
+        "FULL_NAME": "West Silvertown - DLR Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.022343831202432,
+          51.5028935752555,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 360,
+        "NAME": "All Saints - DLR",
+        "ACCESSIBILITY": "Fully Accessible",
+        "NETWORK": "DLR",
+        "DATASET_LAST_UPDATED": "2021-09-23T10:00:20Z",
+        "FULL_NAME": "All Saints - DLR Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.013048681481394,
+          51.5110245652298,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 361,
+        "NAME": "Blackwall - DLR",
+        "ACCESSIBILITY": "Fully Accessible",
+        "NETWORK": "DLR",
+        "DATASET_LAST_UPDATED": "2021-09-23T10:00:20Z",
+        "FULL_NAME": "Blackwall - DLR Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.007143563845183,
+          51.507965641904,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 362,
+        "NAME": "Bow Church - DLR",
+        "ACCESSIBILITY": "Fully Accessible",
+        "NETWORK": "DLR",
+        "DATASET_LAST_UPDATED": "2021-09-23T10:00:20Z",
+        "FULL_NAME": "Bow Church - DLR Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.020772484150977,
+          51.5276665161029,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 363,
+        "NAME": "Canary Wharf - DLR",
+        "ACCESSIBILITY": "Fully Accessible",
+        "NETWORK": "DLR",
+        "DATASET_LAST_UPDATED": "2021-09-23T10:00:20Z",
+        "FULL_NAME": "Canary Wharf - DLR Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.020928654645213,
+          51.5051235871475,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 364,
+        "NAME": "Canning Town - DLR",
+        "ACCESSIBILITY": "Fully Accessible",
+        "NETWORK": "DLR",
+        "DATASET_LAST_UPDATED": "2021-09-23T10:00:20Z",
+        "FULL_NAME": "Canning Town - DLR Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.008177720759156,
+          51.5139093032806,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 365,
+        "NAME": "Cutty Sark - DLR",
+        "ACCESSIBILITY": "Fully Accessible",
+        "NETWORK": "DLR",
+        "DATASET_LAST_UPDATED": "2021-09-23T10:00:20Z",
+        "FULL_NAME": "Cutty Sark - DLR Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.011056401727468,
+          51.481673405321,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 366,
+        "NAME": "Deptford Bridge - DLR",
+        "ACCESSIBILITY": "Fully Accessible",
+        "NETWORK": "DLR",
+        "DATASET_LAST_UPDATED": "2021-09-23T10:00:20Z",
+        "FULL_NAME": "Deptford Bridge - DLR Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.022436907159058,
+          51.4743028700305,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 367,
+        "NAME": "Devons Road - DLR",
+        "ACCESSIBILITY": "Fully Accessible",
+        "NETWORK": "DLR",
+        "DATASET_LAST_UPDATED": "2021-09-23T10:00:20Z",
+        "FULL_NAME": "Devons Road - DLR Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.01745177993208,
+          51.5224662911198,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 368,
+        "NAME": "East India - DLR",
+        "ACCESSIBILITY": "Fully Accessible",
+        "NETWORK": "DLR",
+        "DATASET_LAST_UPDATED": "2021-09-23T10:00:20Z",
+        "FULL_NAME": "East India - DLR Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.002268081672202,
+          51.5093844223734,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 369,
+        "NAME": "Greenwich - DLR",
+        "ACCESSIBILITY": "Fully Accessible",
+        "NETWORK": "DLR",
+        "DATASET_LAST_UPDATED": "2021-09-23T10:00:20Z",
+        "FULL_NAME": "Greenwich - DLR Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.013428811505618,
+          51.4781253570124,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 370,
+        "NAME": "Heron Quays - DLR",
+        "ACCESSIBILITY": "Fully Accessible",
+        "NETWORK": "DLR",
+        "DATASET_LAST_UPDATED": "2021-09-23T10:00:20Z",
+        "FULL_NAME": "Heron Quays - DLR Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.021424132268538,
+          51.5033333196928,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 371,
+        "NAME": "Island Gardens - DLR",
+        "ACCESSIBILITY": "Fully Accessible",
+        "NETWORK": "DLR",
+        "DATASET_LAST_UPDATED": "2021-09-23T10:00:20Z",
+        "FULL_NAME": "Island Gardens - DLR Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.010475819585117,
+          51.4880576265708,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 372,
+        "NAME": "Langdon Park - DLR",
+        "ACCESSIBILITY": "Fully Accessible",
+        "NETWORK": "DLR",
+        "DATASET_LAST_UPDATED": "2021-09-23T10:00:20Z",
+        "FULL_NAME": "Langdon Park - DLR Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.014097321791186,
+          51.5150802269941,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 373,
+        "NAME": "Limehouse - DLR",
+        "ACCESSIBILITY": "Fully Accessible",
+        "NETWORK": "DLR",
+        "DATASET_LAST_UPDATED": "2021-09-23T10:00:20Z",
+        "FULL_NAME": "Limehouse - DLR Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.03968483894511,
+          51.5123094986225,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 374,
+        "NAME": "Mudchute - DLR",
+        "ACCESSIBILITY": "Fully Accessible",
+        "NETWORK": "DLR",
+        "DATASET_LAST_UPDATED": "2021-09-23T10:00:20Z",
+        "FULL_NAME": "Mudchute - DLR Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.015005630343578,
+          51.4908863529664,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 375,
+        "NAME": "Poplar - DLR",
+        "ACCESSIBILITY": "Fully Accessible",
+        "NETWORK": "DLR",
+        "DATASET_LAST_UPDATED": "2021-09-23T10:00:20Z",
+        "FULL_NAME": "Poplar - DLR Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.017199211514348,
+          51.5077134652628,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 376,
+        "NAME": "Pudding Mill Lane - DLR",
+        "ACCESSIBILITY": "Fully Accessible",
+        "NETWORK": "DLR",
+        "DATASET_LAST_UPDATED": "2021-09-23T10:00:20Z",
+        "FULL_NAME": "Pudding Mill Lane - DLR Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.013942710416313,
+          51.5341967936028,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 377,
+        "NAME": "South Quay - DLR",
+        "ACCESSIBILITY": "Fully Accessible",
+        "NETWORK": "DLR",
+        "DATASET_LAST_UPDATED": "2021-09-23T10:00:20Z",
+        "FULL_NAME": "South Quay - DLR Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.019006109703957,
+          51.5006125006955,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 378,
+        "NAME": "Tower Gateway - DLR",
+        "ACCESSIBILITY": "Fully Accessible",
+        "NETWORK": "DLR",
+        "DATASET_LAST_UPDATED": "2021-09-23T10:00:20Z",
+        "FULL_NAME": "Tower Gateway - DLR Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.074648378277013,
+          51.5106227385487,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 463,
+        "NAME": "Beckton - DLR",
+        "ACCESSIBILITY": "Fully Accessible",
+        "NETWORK": "DLR",
+        "DATASET_LAST_UPDATED": "2021-09-23T10:00:20Z",
+        "FULL_NAME": "Beckton - DLR Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.061841506626391,
+          51.51441754485,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 464,
+        "NAME": "Custom House - DLR",
+        "ACCESSIBILITY": "Fully Accessible",
+        "NETWORK": "DLR",
+        "DATASET_LAST_UPDATED": "2021-09-23T10:00:20Z",
+        "FULL_NAME": "Custom House - DLR Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.026552513617077,
+          51.5097363195319,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 465,
+        "NAME": "Cyprus - DLR",
+        "ACCESSIBILITY": "Fully Accessible",
+        "NETWORK": "DLR",
+        "DATASET_LAST_UPDATED": "2021-09-23T10:00:20Z",
+        "FULL_NAME": "Cyprus - DLR Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.063966290133451,
+          51.5084987689632,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 466,
+        "NAME": "Gallions Reach - DLR",
+        "ACCESSIBILITY": "Fully Accessible",
+        "NETWORK": "DLR",
+        "DATASET_LAST_UPDATED": "2021-09-23T10:00:20Z",
+        "FULL_NAME": "Gallions Reach - DLR Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.071784774943963,
+          51.5089813075807,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 467,
+        "NAME": "King George V - DLR",
+        "ACCESSIBILITY": "Fully Accessible",
+        "NETWORK": "DLR",
+        "DATASET_LAST_UPDATED": "2021-09-23T10:00:20Z",
+        "FULL_NAME": "King George V - DLR Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.062319193330912,
+          51.5020258806883,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 468,
+        "NAME": "Pontoon Dock - DLR",
+        "ACCESSIBILITY": "Fully Accessible",
+        "NETWORK": "DLR",
+        "DATASET_LAST_UPDATED": "2021-09-23T10:00:20Z",
+        "FULL_NAME": "Pontoon Dock - DLR Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.033253155674031,
+          51.5022821428294,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 469,
+        "NAME": "Prince Regent - DLR",
+        "ACCESSIBILITY": "Fully Accessible",
+        "NETWORK": "DLR",
+        "DATASET_LAST_UPDATED": "2021-09-23T10:00:20Z",
+        "FULL_NAME": "Prince Regent - DLR Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.034217462237373,
+          51.5093696759595,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 489,
+        "NAME": "West Ham - DLR",
+        "ACCESSIBILITY": "Fully Accessible",
+        "NETWORK": "DLR",
+        "DATASET_LAST_UPDATED": "2021-09-23T10:00:20Z",
+        "FULL_NAME": "West Ham - DLR Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.005046144682202,
+          51.5282529219638,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 490,
+        "NAME": "Stratford High Street - DLR",
+        "ACCESSIBILITY": "Fully Accessible",
+        "NETWORK": "DLR",
+        "DATASET_LAST_UPDATED": "2021-09-23T10:00:20Z",
+        "FULL_NAME": "Stratford High Street - DLR Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.000724594801913,
+          51.5380370925482,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 496,
+        "NAME": "Beckton Park - DLR",
+        "ACCESSIBILITY": "Fully Accessible",
+        "NETWORK": "DLR",
+        "DATASET_LAST_UPDATED": "2021-09-23T10:00:20Z",
+        "FULL_NAME": "Beckton Park - DLR Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.054957352555814,
+          51.5087740601383,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 497,
+        "NAME": "London City Airport - DLR",
+        "ACCESSIBILITY": "Fully Accessible",
+        "NETWORK": "DLR",
+        "DATASET_LAST_UPDATED": "2021-09-23T10:00:20Z",
+        "FULL_NAME": "London City Airport - DLR Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.048171150580718,
+          51.5036679887295,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 498,
+        "NAME": "Woolwich Arsenal - DLR",
+        "ACCESSIBILITY": "Fully Accessible",
+        "NETWORK": "DLR",
+        "DATASET_LAST_UPDATED": "2021-09-23T10:00:20Z",
+        "FULL_NAME": "Woolwich Arsenal - DLR Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.068891428028447,
+          51.4899853883174,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 499,
+        "NAME": "Crossharbour - DLR",
+        "ACCESSIBILITY": "Fully Accessible",
+        "NETWORK": "DLR",
+        "DATASET_LAST_UPDATED": "2021-09-23T10:00:20Z",
+        "FULL_NAME": "Crossharbour - DLR Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.01445602393031,
+          51.4959041734626,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 500,
+        "NAME": "Elverson Road - DLR",
+        "ACCESSIBILITY": "Fully Accessible",
+        "NETWORK": "DLR",
+        "DATASET_LAST_UPDATED": "2021-09-23T10:00:20Z",
+        "FULL_NAME": "Elverson Road - DLR Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.016358504819987,
+          51.4686962565268,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 501,
+        "NAME": "Lewisham - DLR",
+        "ACCESSIBILITY": "Fully Accessible",
+        "NETWORK": "DLR",
+        "DATASET_LAST_UPDATED": "2021-09-23T10:00:20Z",
+        "FULL_NAME": "Lewisham - DLR Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.014057322460438,
+          51.4656535298736,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 502,
+        "NAME": "Shadwell - DLR",
+        "ACCESSIBILITY": "Fully Accessible",
+        "NETWORK": "DLR",
+        "DATASET_LAST_UPDATED": "2021-09-23T10:00:20Z",
+        "FULL_NAME": "Shadwell - DLR Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.056717747665025,
+          51.5116938223016,
+          0.0
+        ]
+      }
+    }
+  ]
+}
